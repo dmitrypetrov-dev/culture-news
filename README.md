@@ -1,1 +1,1 @@
-# culture-news
+https://dmitrypetrov-dev.github.io/culture-news/
