@@ -273,6 +273,7 @@ hr {
 
 .button-link:hover {
     box-shadow: 0 0 10px 0 #000000;
+    transition: box-shadow .2s linear;
 }
 
 /*empty-wrapper*/
@@ -376,4 +377,5 @@ footer {
     border: 0;
     background-color: #FF7931;
     background-size: 60%;
+    transition: background-size .2s linear;
 }
